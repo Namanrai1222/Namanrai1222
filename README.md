@@ -7,6 +7,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Namanrai1222&color=blueviolet&style=flat)
 
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
