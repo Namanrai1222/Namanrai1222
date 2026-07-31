@@ -125,12 +125,12 @@ Automated SaaS builder with a 4-layer modular architecture: orchestrator, schedu
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Namanrai1222&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="Naman's GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=Namanrai1222&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="Naman's GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namanrai1222&theme=dark&hide_border=true" width="48%" alt="Naman's GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanrai1222&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages"/>
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=Namanrai1222&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages"/>
 </p>
 
 ---
